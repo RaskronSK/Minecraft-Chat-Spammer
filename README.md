@@ -1,6 +1,6 @@
 # 📖README📖
                                             
-Hello! This is my Minecraft Spammer and PLEASE Dont use this in an unintended way. Just know that if you use this on a public server if you are not allowed to, Because if you do you might face a Mute or even a BAN!!!!!!!
+*1.* Hello! This is my Minecraft Spammer and PLEASE Dont use this in an unintended way. Just know that if you use this on a public server if you are not allowed to, Because if you do you might face a Mute or even a BAN!!!!!!!
 So please be careful with this tool
 
 # 🪟Windows TUTORIAL🪟
